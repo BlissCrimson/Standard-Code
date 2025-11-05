@@ -47,33 +47,29 @@ Of course, parameters can also be passed to execute additional functions.
 **TO OPEN A DIALOG**
 
 ID from the Dialog
-
+```js
 let dialogRef = document.getElementById("dialog"); 
-
+```
 **to open dialog**
 
 Function that is executed, for example, via `onclick="openDialog"`.
 
-This dialog is called using `.showModal();`.
+This dialog is called using `.show();`.
 
-function openDialog() { 
-    dialogRef.showModal(); 
-}
-
-alternate
-
+```js
 function openDialog() { 
     dialogRef.show(); 
 }
+```
 
 **TO CLOSE A DIALOG**
 
 Function that is executed, for example, via `onclick="closeDialog"`.
-
+```js
 function closeDialog() {
     dialogRef.close(); // The dialog is closed with .close();.
 }
-
+```
 
 
 ## Modal
@@ -82,3 +78,30 @@ function closeDialog() {
 du musst reagieren
 - ein Modal kann mit einem `<div` tag erstellt werden
 - wenn kein `<button>` zum schließen eingefügt ist, hängt man im Modal fest
+
+**TO OPEN A MODAL-DIALOG**
+
+ID from the Dialog
+```js
+let dialogRef = document.getElementById("dialog"); 
+```
+**to open dialog**
+
+Function that is executed, for example, via `onclick="openDialog"`.
+
+This dialog is called using `.showModal();`.
+
+```js
+function openDialog() { 
+    dialogRef.showModal(); 
+}
+```
+
+**TO CLOSE A Modal-DIALOG**
+
+Function that is executed, for example, via `onclick="closeDialog"`.
+```js
+function closeDialog() {
+    dialogRef.close(); // The dialog is closed with .close();.
+}
+```
