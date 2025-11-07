@@ -12,14 +12,14 @@ Noch ist es sehr klein und wächst von Tag zu Tag ein wenig mehr.
 
 Wer möchte kann natürlich gerne Feedback geben. 
 
-## [CSS](https://github.com/BlissCrimson/Standard-Code/tree/main/CSS)
+## [CSS](./CSS/)
 
-### [CSS Hierarchie](https://github.com/BlissCrimson/Standard-Code/blob/main/css/cssHierarchie.md)
+### [CSS Hierarchie](./CSS/cssHierarchie.md)
 
 
-## [JavaScript](https://github.com/BlissCrimson/Standard-Code/tree/main/Javascript)
+## [JavaScript](./Javascript/)
 
-### [UI Elemente](https://github.com/BlissCrimson/Standard-Code/blob/main/Javascript/ui-elements.md)
+### [UI Elemente](./Javascript/ui-elements.md)
 <!-- #### [Overlay]() -->
 <!-- #### [Dialog]() -->
 <!-- #### [Modal]() -->
