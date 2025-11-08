@@ -6,7 +6,7 @@ Dabei können es einfache erklärungen einzelne code zeilen sein, bis hinzu ganz
 
 Natürlich könnt ihr euch auch einzelne snipptes kopieren oder die ganzen .css files.
 
-## CSS Hierarchie
+## [CSS Hierarchie](cssHierarchie.md)
 
 Wennn ihr euch fragt welche Art des CSS Priorisiert gegen über anderen, dann schaut hier rein.
 
