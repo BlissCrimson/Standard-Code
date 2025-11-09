@@ -20,6 +20,3 @@ Wer möchte kann natürlich gerne Feedback geben.
 ## [JavaScript](./Javascript/)
 
 ### [UI Elemente](./Javascript/ui-elements.md)
-<!-- #### [Overlay]() -->
-<!-- #### [Dialog]() -->
-<!-- #### [Modal]() -->
