@@ -1,5 +1,6 @@
 * {
     box-sizing: border-box;
+    border: none;
     margin: 0;
     scroll-behavior: smooth;
 }
@@ -10,6 +11,16 @@ a {
 
 .d_none {
     display: none;
+}
+
+.d_flex {
+    display: flex;
+}
+
+.d_flex_sb_c {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
 }
 
 .overlay {
