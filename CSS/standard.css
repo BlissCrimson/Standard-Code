@@ -9,6 +9,10 @@ a {
     text-decoration: none;
 }
 
+.d_block {
+    display: block;
+}
+
 .d_none {
     display: none;
 }
@@ -20,6 +24,24 @@ a {
 .d_flex_sb_c {
     display: flex;
     justify-content: space-between;
+    align-items: center;
+}
+
+.d_flex_sa_c {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.d_flex_se_c {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.d_flex_c_c {
+    display: flex;
+    justify-content: center;
     align-items: center;
 }
 
