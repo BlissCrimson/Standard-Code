@@ -21,6 +21,11 @@ a {
     display: flex;
 }
 
+.d_flex_column {
+    display: flex;
+    flex-direction: column;
+}
+
 .d_flex_sb_c {
     display: flex;
     justify-content: space-between;
