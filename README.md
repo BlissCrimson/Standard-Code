@@ -22,3 +22,5 @@ Wer möchte kann natürlich gerne Feedback geben.
 ### [UI Elemente](./Javascript/ui-elements.md)
 
 ### [loading spinner](./Javascript/loadingspinner/)
+
+### [local storage](./Javascript/LocalStorage/)
