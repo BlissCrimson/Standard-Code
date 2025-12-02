@@ -19,10 +19,17 @@ Eine Animation für den User während der Ladezeit der Weibseite oder anderem.
 caches sind Zwischenspeicher,wo bestimmte files abgelegt werden und diese auch wieder genutzt werden können.
 
 Arten von Caches:
+
 - local storage
--cache storage
+- cache storage
 
 ### [local storage](./localStorage/)
 
 Zwischenspeicher in den ich Daten speichern kann und diese auch wieder auslesen kann.
 So sind beim nächsten Besuch der Webseite, bestimmte gemachte Angaben noch vorhanden.
+
+### [cahe storage](./cacheStorage/cacheStorage.js)
+
+So kann der Browser Caches genutzt erden um zum Beispiel bereits geladene Bilder weiter nutzen zu können, ohne das diese erneut geladen werden müssen.
+Allerdings nur so lange bis die Seite neugeladen wird.
+Wenn die Webside neu geladen wird, wird der Browser Cache gelöscht.
