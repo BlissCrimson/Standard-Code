@@ -2,15 +2,29 @@
 
 ## Grundlagen:
 
-Um mit Display Flex nuzen zu können, muss man dem jeweiligem Element den Enstprachendem Style geben.
+Um mit Display Flex arbeiten zu können, muss man dem jeweiligem Element den Enstprachendem Style geben.
 
 ## Code
 
-### Display Flex vergeben
+### Display verbergen
+
+```css
+.d_none {
+  display: none;
+}
+```
+
+### Display Flex vergeben oder einnblenden
 
 ```css
 .d-flex {
   display: flex;
+}
+```
+
+```css
+.d_block {
+  display: block;
 }
 ```
 
