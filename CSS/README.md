@@ -16,6 +16,10 @@ Somit könnt ihr euren Style noch besser festlegen und braucht am Ende weniger c
 
 Mit Display Flex können Elemente angeordert werden.
 
+### [sticky footer](./stickyFooter/)
+
+Ein footer der immer am unteren Bildschirmrand ist.
+
 ## [Standard.css file](standard.css)
 
 Was ist eine `standard.css`?
