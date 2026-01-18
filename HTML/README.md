@@ -20,7 +20,7 @@ Mit den tags wird angegeben was für ein Element ihr auf einer Webseite nutzt.
 
 
 
-### [Input und Label](./inputundlabel.md)
+### [Input und Label](./input-und-label.md)
 
 Label Tags können an Input Tags gekoppelt werden, das macht es gerade screenreadern einfacher.
 
