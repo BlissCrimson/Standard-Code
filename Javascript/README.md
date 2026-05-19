@@ -33,3 +33,9 @@ So sind beim nächsten Besuch der Webseite, bestimmte gemachte Angaben noch vorh
 So kann der Browser Caches genutzt erden um zum Beispiel bereits geladene Bilder weiter nutzen zu können, ohne das diese erneut geladen werden müssen.
 Allerdings nur so lange bis die Seite neugeladen wird.
 Wenn die Webside neu geladen wird, wird der Browser Cache gelöscht.
+
+## Umgebungsvariablen
+
+In Node.js-Projekten werden sensible Werte wie API-Keys oder Datenbankpasswörter in einer `.env`-Datei gespeichert und über das Paket `dotenv` eingelesen – so landen sie nie im Quellcode.
+
+Mehr dazu: [.env – Umgebungsvariablen](../dotenv/README.md)
