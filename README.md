@@ -29,3 +29,9 @@ Wer möchte kann natürlich gerne Feedback geben.
 ### [loading spinner](./Javascript/loadingspinner/)
 
 ### [local storage](./Javascript/LocalStorage/)
+
+## [.env – Umgebungsvariablen](./dotenv/)
+
+### [Was ist eine .env-Datei?](./dotenv/README.md)
+
+### [.env.example – Vorlage](./dotenv/.env.example)
